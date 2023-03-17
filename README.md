@@ -8,4 +8,5 @@ Each file:
 - in each file you will find a link to the problem
 - in each file you will find that solution I've created
 
-    
+
+This little "project" shows on a small scale my capacity to understand a problem and write code to solve it.
